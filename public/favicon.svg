@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <!-- Background -->
+  <rect width="32" height="32" fill="#111111"/>
+  <!-- Binary register bits across top -->
+  <rect x="3" y="3" width="4" height="4" fill="#FF6C00"/>
+  <rect x="9" y="3" width="4" height="4" fill="none" stroke="#FF6C00" stroke-width="1"/>
+  <rect x="19" y="3" width="4" height="4" fill="#FF6C00"/>
+  <rect x="25" y="3" width="4" height="4" fill="#FF6C00"/>
+  <!-- 211 text -->
+  <text x="16" y="22" font-family="monospace" font-weight="900" font-size="13" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">211</text>
+  <!-- Bottom register bits -->
+  <rect x="3" y="25" width="4" height="4" fill="none" stroke="#FF6C00" stroke-width="1"/>
+  <rect x="9" y="25" width="4" height="4" fill="#FF6C00"/>
+  <rect x="19" y="25" width="4" height="4" fill="#FF6C00"/>
+  <rect x="25" y="25" width="4" height="4" fill="none" stroke="#FF6C00" stroke-width="1"/>
+</svg>
